@@ -5,7 +5,6 @@ import RegionsDropDown from '../Components/DropdownComponent';
 import CardsContainer from '../Components/CardsGridComponent';
 import FavouratesListComponent from '../Components/SideBarComponent';
 import styled from 'styled-components';
-
 const StyledStack = styled(Stack)`
 height:50px;
 @media (max-width: 900px) {

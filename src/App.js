@@ -45,7 +45,6 @@ export const THEME = createTheme({
    }
   }
 });
-
 function App() {
   return (
     <ThemeProvider theme={THEME}>

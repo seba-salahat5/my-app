@@ -4,7 +4,6 @@ import GermanyFlag from '../assets/de.svg';
 import { ThemeProvider } from '@mui/material/styles';
 import { THEME } from '../App';
 import CancelIcon from '@mui/icons-material/Cancel';
-
 export default function FavourateItemComponent() {
     return (
         <Stack direction={'row'} spacing={2} sx={{ py: '30px', alignItems: 'center' }}>

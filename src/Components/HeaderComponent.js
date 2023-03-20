@@ -14,7 +14,6 @@ padding-bottom: 0.25rem;
 display:flex;
 justify-content: space-between;
 `;
-
 function createHeaderComponent() {
   return <HeadingLine>
     <ThemeProvider theme={THEME}>

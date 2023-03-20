@@ -6,7 +6,7 @@ import StarOutlineRoundedIcon from '@mui/icons-material/StarOutlineRounded';
 import StarRoundedIcon from '@mui/icons-material/StarRounded';
 import { Link } from 'react-router-dom';
 
-let starFillFlag;
+let starFillFlag; 
 const linkStyle = {
     textDecoration: "none",
     color: '#111517'

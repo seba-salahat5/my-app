@@ -34,11 +34,9 @@ export const DETAILS_THEME = createTheme({
 
 export default function DetailsContainer() {
     const navigate = useNavigate();
-
     function handleClick(event) {
         navigate('/my-app');
     }
-
     return (
         <Box sx={{ mt: '130px', px: '4.0rem' }}>
             <Button variant="text" sx={{ boxShadow: 3, mb: '50px', px: '30px' }} color="light" onClick={handleClick}>

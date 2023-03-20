@@ -10,7 +10,6 @@ import AlandFlag from '../assets/ax.svg';
 import AlbaniaFlag from '../assets/al.svg';
 import AlgeriaFlag from '../assets/dz.svg';
 
-
 function GridColumn() {
   return (
     <React.Fragment>

@@ -3,7 +3,6 @@ import { Box, Stack, Typography } from '@mui/material';
 import { ThemeProvider } from '@mui/material/styles';
 import { THEME } from '../App';
 import FavourateCard from './HorizontalCardComponent';
-
 export default function FavouratesListComponent() {
     return (
         <Box sx={{ bgcolor: '#FFFFFF', display: { xs: 'none', md: 'block' } }}>

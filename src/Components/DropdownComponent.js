@@ -9,7 +9,6 @@ const regions = [
     'Oceania',
     'Favourites',
 ];
-
 export default function RegionsDropDown() {
     const [Selectedregion, setSelectedRegion] = React.useState([]);
 
