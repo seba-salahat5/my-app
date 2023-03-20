@@ -52,7 +52,7 @@ function App() {
       <React.Fragment>
         <Header/>
         <Routes>
-          <Route path="/" element={<HomeContainer />} />
+          <Route path="/my-app" element={<HomeContainer />} />
           <Route path="details" element={<DetailsContainer />} />
         </Routes>
       </React.Fragment>

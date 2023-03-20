@@ -36,7 +36,7 @@ export default function DetailsContainer() {
     const navigate = useNavigate();
 
     function handleClick(event) {
-        navigate('/');
+        navigate('/my-app');
     }
 
     return (
